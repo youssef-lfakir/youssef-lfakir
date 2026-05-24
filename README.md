@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Youssef El Fakir 👋</h1>
+<h1 align="center">Hello, I'm Youssef LFakir 👋</h1>
 <h3 align="center">Technical Artist & AI Student | Bridging Creativity & Code</h3>
 
 <p align="center">
