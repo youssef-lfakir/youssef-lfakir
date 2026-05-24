@@ -33,15 +33,46 @@
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
 </div>
 
-<h2>📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p>
+<h2 align="center">⚡ GitHub Analytics ⚡</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
-</p>
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_radius=15" />
+  
+  <img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border_radius=15" />
 
-<blockquote align="center">
-  "Code is the canvas, AI is the brush, and Games are the masterpiece."
-</blockquote>
+</div>
+
+<br>
+
+<div align="center">
+
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=15" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Developer Quote
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;AI+is+the+future.;Unity+Developer+%7C+AI+Student.;Turning+Ideas+into+Reality." />
+
+</div>
