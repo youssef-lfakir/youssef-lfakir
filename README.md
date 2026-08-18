@@ -1,15 +1,13 @@
-
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Youssef+LFAKIR....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Youssef+LFAKIR....;Data+Analytics+%26+AI+Student!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">Technical Artist & AI Student | Bridging Creativity & Code</h3>
+<h3 align="center">Data Analytics & AI Student | Turning Data into Actionable Insights</h3>
 
 <p align="center">
-  💻 Studying AI | sql , Python Developer<br>
-  🎨 Digital Artist proficient in Adobe Illustrator & Photoshop<br>
-
+  💻 Specializing in Data Analysis & AI | Python, SQL & Database Systems<br>
+  📊 Passionate about Data Engineering, Visualization & Analytics Pipelines<br>
 </p>
 
 <p align="center">
@@ -21,21 +19,23 @@
 
 <h2>🛠 Tech Stack & Tools</h2>
 <div align="center">
-  <h3>Programming & AI</h3>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+  <h3>Programming & Data Analysis</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
   <br>
-  <h3>Game Dev & Design</h3>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
+  <h3>Databases & Systems</h3>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </div>
+
+<br>
 
 <div align="center">
 
-### 🚀 Building AI, 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student+%F0%9F%A4%96;Unity+Developer+%F0%9F%8E%AE;Creative+Coder+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Analytics+Student+%F0%9F%A4%96;Python+%26+SQL+Specialist+%F0%9F%92%BB;Data+Pipelines+%26+Insights+%F0%9F%93%8A;Always+Learning+New+Tech+%F0%9F%9A%80" />
 
 </div>
