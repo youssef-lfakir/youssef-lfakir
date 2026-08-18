@@ -7,9 +7,9 @@
 <h3 align="center">Technical Artist & AI Student | Bridging Creativity & Code</h3>
 
 <p align="center">
-  💻 Studying AI | C#, C++, Python Developer<br>
+  💻 Studying AI | sql , Python Developer<br>
   🎨 Digital Artist proficient in Adobe Illustrator & Photoshop<br>
-  🚀 Crafting immersive experiences in Unity
+
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-### 🚀 Building AI, Games & Creative Experiences
+### 🚀 Building AI, 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student+%F0%9F%A4%96;Unity+Developer+%F0%9F%8E%AE;Creative+Coder+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80" />
 
